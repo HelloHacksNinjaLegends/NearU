@@ -1,0 +1,2 @@
+campus_id,school_id,name,address_display,latitude,longitude,active,is_mock
+campus_ubc_vancouver,ubc,University of British Columbia Vancouver,Approximate UBC Point Grey Campus,49.2606,-123.2460,true,true

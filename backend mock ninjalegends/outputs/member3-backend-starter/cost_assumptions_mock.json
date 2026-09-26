@@ -1,0 +1,26 @@
+{
+  "assumption_version": "v1-demo-2026-09-26",
+  "currency": "CAD",
+  "monthly_defaults": {
+    "internet_cad": 65,
+    "renter_insurance_cad": 25,
+    "transit_pass_cad": 115,
+    "single_transit_fare_cad": 3.25,
+    "trips_per_month": 40,
+    "fuel_litres_per_km": 0.09,
+    "fuel_price_cad_per_litre": 1.7,
+    "car_wear_cad_per_km": 0.12,
+    "commute_days_per_month": 20,
+    "groceries_delta_cad": 0,
+    "recurring_building_fees_cad": 0
+  },
+  "fair_rent_demo_benchmarks": {
+    "studio_cad": 1650,
+    "one_bedroom_cad": 1900,
+    "two_bedroom_cad": 2600,
+    "furnished_multiplier": 1.08,
+    "internet_included_multiplier": 1.03,
+    "utilities_included_multiplier": 1.05
+  },
+  "is_mock": true
+}

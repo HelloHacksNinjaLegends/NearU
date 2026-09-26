@@ -1,0 +1,16 @@
+amenity_id,name,category,latitude,longitude,source_name,source_ref,is_mock,updated_at
+amn_001,Mock Grocer Kitsilano,grocery,49.2662,-123.1655,OpenStreetMap Overpass synthetic fixture,overpass-mock-001,true,2026-09-26T00:00:00Z
+amn_002,Mock Fitness Kitsilano,gym,49.2688,-123.1699,OpenStreetMap Overpass synthetic fixture,overpass-mock-002,true,2026-09-26T00:00:00Z
+amn_003,Mock UBC Transit Loop,transit_stop,49.2639,-123.2469,OpenStreetMap Overpass synthetic fixture,overpass-mock-003,true,2026-09-26T00:00:00Z
+amn_004,Mock Point Grey Grocer,grocery,49.2635,-123.1812,OpenStreetMap Overpass synthetic fixture,overpass-mock-004,true,2026-09-26T00:00:00Z
+amn_005,Mock Dunbar Pharmacy,hospital,49.2491,-123.1848,OpenStreetMap Overpass synthetic fixture,overpass-mock-005,true,2026-09-26T00:00:00Z
+amn_006,Mock Kerrisdale Market,grocery,49.2332,-123.1578,OpenStreetMap Overpass synthetic fixture,overpass-mock-006,true,2026-09-26T00:00:00Z
+amn_007,Mock Fairview Transit Stop,transit_stop,49.2621,-123.1271,OpenStreetMap Overpass synthetic fixture,overpass-mock-007,true,2026-09-26T00:00:00Z
+amn_008,Mock Main Street Gym,gym,49.2532,-123.1003,OpenStreetMap Overpass synthetic fixture,overpass-mock-008,true,2026-09-26T00:00:00Z
+amn_009,Mock Downtown Market,grocery,49.2786,-123.1289,OpenStreetMap Overpass synthetic fixture,overpass-mock-009,true,2026-09-26T00:00:00Z
+amn_010,Mock Olympic Village Clinic,hospital,49.2717,-123.1079,OpenStreetMap Overpass synthetic fixture,overpass-mock-010,true,2026-09-26T00:00:00Z
+amn_011,Mock Marpole Transit Stop,transit_stop,49.2116,-123.1407,OpenStreetMap Overpass synthetic fixture,overpass-mock-011,true,2026-09-26T00:00:00Z
+amn_012,Mock Joyce Grocer,grocery,49.2395,-123.0316,OpenStreetMap Overpass synthetic fixture,overpass-mock-012,true,2026-09-26T00:00:00Z
+amn_013,Mock West End Gym,gym,49.2901,-123.1354,OpenStreetMap Overpass synthetic fixture,overpass-mock-013,true,2026-09-26T00:00:00Z
+amn_014,Mock Commercial Cafe,restaurant,49.2778,-123.0719,OpenStreetMap Overpass synthetic fixture,overpass-mock-014,true,2026-09-26T00:00:00Z
+amn_015,Mock UBC Health Centre,hospital,49.2623,-123.2421,OpenStreetMap Overpass synthetic fixture,overpass-mock-015,true,2026-09-26T00:00:00Z

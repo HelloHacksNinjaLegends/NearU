@@ -1,0 +1,57 @@
+{
+  "is_mock": true,
+  "source_note": "All records are synthetic fixtures. No Rentals.ca content was scraped or copied.",
+  "campus": {
+    "campus_id": "campus_ubc_vancouver",
+    "name": "University of British Columbia Vancouver",
+    "latitude": 49.2606,
+    "longitude": -123.246
+  },
+  "listings": [
+    {
+      "listing_id": "lst_001",
+      "title": "Mock Kitsilano Studio",
+      "monthly_rent_cad": 1480,
+      "bedrooms": 0,
+      "bathrooms": 1,
+      "property_type": "apartment",
+      "furnished": false,
+      "utilities_included": ["heat", "water"],
+      "internet_included": false,
+      "parking_monthly_cad": 0,
+      "roommate_count": 0,
+      "location": {"latitude": 49.2678, "longitude": -123.1681, "precision": "neighbourhood"},
+      "source": {"name": "Rentals.ca (synthetic fixture)", "reference": "rentals-ca-mock-001", "is_mock": true}
+    },
+    {
+      "listing_id": "lst_003",
+      "title": "Mock Dunbar Shared Two Bedroom",
+      "monthly_rent_cad": 2380,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "apartment",
+      "furnished": false,
+      "utilities_included": ["heat", "water"],
+      "internet_included": true,
+      "parking_monthly_cad": 70,
+      "roommate_count": 1,
+      "location": {"latitude": 49.2515, "longitude": -123.185, "precision": "neighbourhood"},
+      "source": {"name": "Rentals.ca (synthetic fixture)", "reference": "rentals-ca-mock-003", "is_mock": true}
+    },
+    {
+      "listing_id": "lst_010",
+      "title": "Mock Joyce Collingwood Shared Room",
+      "monthly_rent_cad": 1025,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "room",
+      "furnished": true,
+      "utilities_included": ["heat", "water", "electricity"],
+      "internet_included": true,
+      "parking_monthly_cad": 0,
+      "roommate_count": 3,
+      "location": {"latitude": 49.2402, "longitude": -123.0324, "precision": "neighbourhood"},
+      "source": {"name": "Rentals.ca (synthetic fixture)", "reference": "rentals-ca-mock-010", "is_mock": true}
+    }
+  ]
+}
